@@ -1,3 +1,5 @@
+in this project we use React : 2 component { Plyare.js and PlayerList.js } also we use a map function to Display all players inside the PlayerList.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
